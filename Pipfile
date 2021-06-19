@@ -8,6 +8,7 @@ requests = "*"
 waitress = "*"
 Flask = "*"
 requests_ntlm = "*"
+cryptography = "==3.3.2"
 
 [dev-packages]
 
